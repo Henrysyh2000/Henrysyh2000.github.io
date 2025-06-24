@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Writing Jekyll Posts",
+        "title": "Smartcal",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/writing-jekyll-posts/",
+        "url": "/SMARTCAL/",
         "teaser": null
       }]
