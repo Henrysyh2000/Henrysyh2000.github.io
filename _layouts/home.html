@@ -4,7 +4,20 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ "About Me" }}</h3>
+<p>
+Hi there! 
+</p>
+<p>
+I am a first year PhD student in ECE department at <b>Queen’s University</b> supervised by Prof. Xiaodan Zhu. 
+My current research interest focus on applying LLM reasoning capabilities in the context of AI-accelerated scientific discovery. 
+</p>
+<p>
+I obtained my Master’s degree at <b>NYU Center for Data Science</b> in 2024 and continued as an research intern in the TAML group led by Prof. Zhu. Last year, I collaborated with Rakuten and published my very first work on agent-based tool-use in EMNLP24 Industry Track.
+</p>
+
+<!-- <h3 class="archive__subtitle">{{ "site.data.ui-text[site.locale].recent_posts | default: "Latest News"" }}</h3> -->
+<h3 class="archive__subtitle">{{ "Latest News"" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
