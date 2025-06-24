@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yuanhao Shen"
@@ -114,11 +114,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yuanhao Shen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "PhD Student at Queen's University"
   location         : "Kingston, ON"
-  email            :
+  email            : "yuanhao.shen@queensu.ca"
+  github          : "henrysyh2000"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
